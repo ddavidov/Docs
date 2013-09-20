@@ -91,3 +91,8 @@ If the option “Enable Shipping Rates” (on the General settings tab) is set t
 - **Cities** - Use to specify cities, related to chosen countries.
 - **Zips** - Comma-separated Zip codes or postal codes
 - **User Groups** - Chose groups of  users that could use this shipping rate.
+
+### ZOOcart Elements Configuration
+At first you need to add ZOOcart elements: **“PricePro”** , **“Quantity”** and **“AddToCart”** to the item type, that will be used as a product type (e.g. Product, Article, e.t.c). To do that, go to Components>ZOO and  click the “gear” tab. Then choose appropriate application group (e.g. “Blog”, “Products” e.t.c)? and click “Edit elements” link under the appropriate type name. Add ZOOcart elements to the chosen item type, set their options and save the settings after.
+
+ * *Note, that ZOOcart requires ALL of these elements ( **“PricePro”** , **“Quantity”** and **“AddToCart”**) to be added to chosen type.*

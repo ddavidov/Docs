@@ -172,3 +172,12 @@ For **Add to Cart** element you can set only one specific param:
 
 **Enable By Default** - If this option is set, "Add to cart" button will be available by default.
 
+### Price and Quantity Setup for Application
+ZOOcart requires you to set Quantity and Price obviously for the type.
+After ZOOcart elements been added to at least one type of application, you need to specify **Price** and **Quantity** for each type.
+If you don't specify them obviously - the first found **Price Pro** and **Quantity** elements will be assigned as Prica and Quantity appropriately.
+To specify Price and Quantity for the type, You should click the "gear" tab, choose appropriate application group (e.g. Blog, Pages, e.t.c.) and Click the appropriate type name.
+On the ZOOcart panel below the Type name field you can snap Price and Quantity properties to the desirable elements of the appropriate type.
+
+![Basic parameters](/images/zc22.png)
+

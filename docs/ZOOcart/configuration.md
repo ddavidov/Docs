@@ -1,13 +1,15 @@
 # Configuration
 
-Choose or create the ZOO application, that you wish to use as a product catalogue. At first you neeed to enable **ZOOcart** for this application. To do this, switch to Config tab of chosen application, set *“Enable ZOO cart”* param to “Yes” (on the right panel) and save changes.
+Choose or create the ZOO application, that you wish to use as a product catalogue. At first you neeed to enable **ZOOcart** for this application.
+To do this, switch to Config tab of chosen application, set *“Enable ZOO cart”* param to “Yes” (on the right panel) and save changes.
 
 ![Basic parameters](/images/zc3.png)
 
 After that the additional tabs: **“Orders”** and **“ZOOcart Config”** will be displayed right after **“Config”** tab.
-Switch to **“ZOOcart Config”** tab to configure ZOOcart for this application.
 
 ![Basic parameters](/images/zc4.png)
+
+Switch to **“ZOOcart Config”** tab to configure ZOOcart for this application.
 
 ## General settings
 General settings tab contains general ZOOcart parameters.
@@ -43,6 +45,9 @@ You can manage Taxes on the “Tax Rules” tab.
 ![Basic parameters](/images/zc6.png)
 
 To create new Tax Rule, you need t specify the following fields for it:
+
+![Basic parameters](/images/zc7.png)
+
 - **Country** - Use to specify the country for which this Tax Rule should be applied.
 - **State** - Use to set state, inside the chosen country (Usualy it’s set like two letter code e.g. AA, BB e.t.c).
 - **City** - Allows to specify the city.
@@ -57,7 +62,7 @@ To create new Tax Rule, you need t specify the following fields for it:
 Different Tax Classes could be aplied to different products or groups of products. You can manage them on the “Tax Classes” page.
 To create or edit the new Tax Class you just need to specify it’s **Name** on the appropriate form:
 
-![Basic parameters](/images/zc7.png)
+![Basic parameters](/images/zc8.png)
 
 ## Address Types
 On the “Address Types” page you can configure addresses comonents (Such as Country, Street, e.t.c.), that will be used for billing and shipping. And configure appropriate Billing and Shipping addresses layouts.

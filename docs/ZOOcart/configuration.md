@@ -77,7 +77,10 @@ To setup address parameters click the Address type name and set all necessary ad
 
 ![Basic parameters](/images/zc11.png)
 
-To configure Address layout (e.g. Billing Form, Billing, Shipping Form, Shipping) click appropriate layout’s name in the Layout Extensions collumn on the “Address Types” page. Address layout can be configured like any other ZOO layout. Setup appropriate layout positions and save changes.
+To configure Address layout (e.g. Billing Form, Billing, Shipping Form, Shipping) click appropriate layout’s name in the Layout Extensions collumn on the “Address Types” page.
+Address layout can be configured like any other ZOO layout. Setup appropriate layout positions and save changes.
+
+![Basic parameters](/images/zc12.png)
 
 ## Currencies
 You can manage currencies on the “Currencies” page.

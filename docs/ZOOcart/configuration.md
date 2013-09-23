@@ -157,3 +157,9 @@ For **Price Pro** element except Basic params ( *e.g. Name, Description, Access 
 - **Default** - Set defeault (minimal) price value in chosen currency.
 - **Default Tax Class** - You can chose default tax class from the list of Tax Classes, that were provided on **"Tax Classes"** page
 - **Currency** - Choose currency from the list of provided currencies (You can manage your currencies on the **"Currencies"** page).
+
+#### Quantity Element Configuring
+
+Quantity element is quite easy to configure. Yu just need to specify the **Default** quantity value.
+
+![Basic parameters](/images/zc20.png)

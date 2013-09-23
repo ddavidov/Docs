@@ -59,19 +59,23 @@ To create new Tax Rule, you need t specify the following fields for it:
 - **Tax Class** - Choose the related Tax Class. You can manage Tax Classes on the “Tax Classes” page.
 
 ## Tax Classes
-Different Tax Classes could be aplied to different products or groups of products. You can manage them on the “Tax Classes” page.
-To create or edit the new Tax Class you just need to specify it’s **Name** on the appropriate form:
+Different Tax Classes could be aplied to different products or groups of products.
+You can manage them on the “Tax Classes” page.
 
 ![Basic parameters](/images/zc8.png)
+
+To create or edit the new Tax Class you just need to specify it’s **Name** on the appropriate form:
+
+![Basic parameters](/images/zc9.png)
 
 ## Address Types
 On the “Address Types” page you can configure addresses comonents (Such as Country, Street, e.t.c.), that will be used for billing and shipping. And configure appropriate Billing and Shipping addresses layouts.
 
-![Basic parameters](/images/zc8.png)
+![Basic parameters](/images/zc10.png)
 
 To setup address parameters click the Address type name and set all necessary address constituents. After setup finished, save all changes.
 
-![Basic parameters](/images/zc9.png)
+![Basic parameters](/images/zc11.png)
 
 To configure Address layout (e.g. Billing Form, Billing, Shipping Form, Shipping) click appropriate layout’s name in the Layout Extensions collumn on the “Address Types” page. Address layout can be configured like any other ZOO layout. Setup appropriate layout positions and save changes.
 

@@ -85,9 +85,12 @@ Address layout can be configured like any other ZOO layout. Setup appropriate la
 ## Currencies
 You can manage currencies on the “Currencies” page.
 
-![Basic parameters](/images/zc10.png)
+![Basic parameters](/images/zc13.png)
 
 To create/edit currency you need to set the following fields:
+
+![Basic parameters](/images/zc14.png)
+
 - **Name** - Currency name.
 - **Code** - International currency 3-letter code (e.g. EUR, USD, e.t.c)
 - **Symbol Left** - Allows to specify the symbol, that will be displayed at the left side from the price.
@@ -103,17 +106,24 @@ To create/edit currency you need to set the following fields:
 On the “Order States” page you can manage Order statuses. After install you can see some preinstalled recommended ones, like (Pending, Payment Received, e.t.c.).
 You also can create your own states.
 
-![Basic parameters](/images/zc11.png)
+![Basic parameters](/images/zc15.png)
 
 To describe order state, you should setup the following fields:
+
+![Basic parameters](/images/zc16.png)
+
 - **Name** - New state name.
 - **Description** - State description.
 
 
 ## Shipping Rates
-If the option “Enable Shipping Rates” (on the General settings tab) is set to “Yes”, you should provide some shipping rates. You can manage them on the “Shipping Rates” page.  To describe the new shipping rate or update an existing you should specify the following params for it:
+If the option “Enable Shipping Rates” (on the General settings tab) is set to “Yes”, you should provide some shipping rates. You can manage them on the “Shipping Rates” page.
 
-![Basic parameters](/images/zc12.png)
+![Basic parameters](/images/zc17.png)
+
+To describe the new shipping rate or update an existing you should specify the following params for it:
+
+![Basic parameters](/images/zc18.png)
 
 - **Name** - To setup Shipping rate name, that will be displayed.
 - **Type** - Chose rate type. It could be based on ordered items or entire order.
@@ -130,7 +140,5 @@ If the option “Enable Shipping Rates” (on the General settings tab) is set t
 
 ### ZOOcart Elements Configuration
 At first you need to add ZOOcart elements: **“PricePro”** , **“Quantity”** and **“AddToCart”** to the item type, that will be used as a product type (e.g. Product, Article, e.t.c). To do that, go to Components>ZOO and  click the “gear” tab. Then choose appropriate application group (e.g. “Blog”, “Products” e.t.c)? and click “Edit elements” link under the appropriate type name. Add ZOOcart elements to the chosen item type, set their options and save the settings after.
-
-![Basic parameters](/images/zc13.png)
 
  * *Note, that ZOOcart requires ALL of these elements ( **“PricePro”** , **“Quantity”** and **“AddToCart”**) to be added to chosen type.*

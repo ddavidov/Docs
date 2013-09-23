@@ -139,6 +139,21 @@ To describe the new shipping rate or update an existing you should specify the f
 - **User Groups** - Chose groups of  users that could use this shipping rate.
 
 ### ZOOcart Elements Configuration
-At first you need to add ZOOcart elements: **“PricePro”** , **“Quantity”** and **“AddToCart”** to the item type, that will be used as a product type (e.g. Product, Article, e.t.c). To do that, go to Components>ZOO and  click the “gear” tab. Then choose appropriate application group (e.g. “Blog”, “Products” e.t.c)? and click “Edit elements” link under the appropriate type name. Add ZOOcart elements to the chosen item type, set their options and save the settings after.
 
- * *Note, that ZOOcart requires ALL of these elements ( **“PricePro”** , **“Quantity”** and **“AddToCart”**) to be added to chosen type.*
+At first you need to add ZOOcart elements: **“PricePro”** , **“Quantity”** and **“AddToCart”** to the item type, that will be used as a product type (e.g. Product, Article, e.t.c). To do that, go to Components>ZOO and  click the “gear” tab.
+Then choose appropriate application group (e.g. “Blog”, “Products” e.t.c)? and click “Edit elements” link under the appropriate type name.
+Add ZOOcart elements to the chosen item type, set their options and save the settings after.
+
+![Basic parameters](/images/zc1.png)
+
+ * *Note, that ZOOcart requires ALL of these elements ( **"PricePro"** , **“Quantity”** and **“AddToCart”**) to be added to chosen type.*
+
+#### Price Pro Element Configuring
+
+For **Price Pro** element except Basic params ( *e.g. Name, Description, Access Level, e.t.c* ), you can set the following Specific params:
+
+![Basic parameters](/images/zc19.png)
+
+- **Default** - Set defeault (minimal) price value in chosen currency.
+- **Default Tax Class** - You can chose default tax class from the list of Tax Classes, that were provided on **"Tax Classes"** page
+- **Currency** - Choose currency from the list of provided currencies (You can manage your currencies on the **"Currencies"** page).

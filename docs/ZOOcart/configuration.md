@@ -160,6 +160,15 @@ For **Price Pro** element except Basic params ( *e.g. Name, Description, Access 
 
 #### Quantity Element Configuring
 
-Quantity element is quite easy to configure. Yu just need to specify the **Default** quantity value.
+**Quantity** element is quite easy to configure. Yu just need to specify the **Default** quantity value.
 
 ![Basic parameters](/images/zc20.png)
+
+#### Add To Cart Element Configuring
+
+For **Add to Cart** element you can set only one specific param:
+
+![Basic parameters](/images/zc21.png)
+
+**Enable By Default** - If this option is set, "Add to cart" button will be available by default.
+

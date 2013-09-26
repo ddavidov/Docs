@@ -3,7 +3,7 @@
 Installing the **DownloadPro** element is very easy:
 
 1. Download **DownloadPro** package from https://www.zoolanders.com/extensions/download-pro.
-2. Go to the Joomla Extension Manager (*Joomla Administration / Extensions / Extension Manager / Extension Manager: Install*).
+2. Go to the Joomla Extension Manager *(Joomla Administration / Extensions / Extension Manager / Extension Manager: Install)*.
 3. Upload the previously downloaded **DownloadPro** package.
 4. Click "Install" and wait until the installation process will be finished.
 

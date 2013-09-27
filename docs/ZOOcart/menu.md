@@ -1,7 +1,7 @@
 - ZOOcart
-- [Requirements](ZOOcart/requirements.md)
-- [Installation](ZOOcart/installation.md)
-- [Configuration](ZOOcart/configuration.md)
+- [Requirements](requirements.md)
+- [Installation](installation.md)
+- [Configuration](configuration.md)
 - divider
-- [Layouts](ZOOcart/layouts_setup.md)
-- [Custom Elements](ZOOcart/custom_elements.md)
+- [Layouts](layouts_setup.md)
+- [Custom Elements](custom_elements.md)

@@ -1,13 +1,4 @@
-# Configuration
-
-Choose or create the ZOO application, that you wish to use as a product catalogue. At first you neeed to enable **ZOOcart** for this application.
-To do this, switch to Config tab of chosen application, set *“Enable ZOO cart”* param to “Yes” (on the right panel) and save changes.
-
-![Basic parameters](/images/zc3.png)
-
-After that the additional tabs: **“Orders”** and **“ZOOcart Config”** will be displayed right after **“Config”** tab.
-
-![Basic parameters](/images/zc4.png)
+# ZOOcart Configuration
 
 Switch to **“ZOOcart Config”** tab to configure ZOOcart for this application.
 

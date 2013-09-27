@@ -37,7 +37,7 @@ And setup all the necessary params. Follow the **Configuration Wizard** messages
 
 ![Basic parameters](/images/zc25.png)
 
-For more details about ZOOcart configuration setup, Read the following ![docmentation](detailed_configuration)
+For more details about ZOOcart configuration setup, Read the following [docmentation](detailed_configuration.md)
 
 ## Step 5. Setup the layouts for ZOOcart elements.
 

@@ -1,5 +1,11 @@
 # Importing/Exporting
 
+##Isn't there ANY better way to Import / Export
+
+Unfortunately, there isn't presently any better solution for importing/exporting data into/out of ZOO. However, we've heard your requests and experienced this limitation ourselves. We've got it on our wishlist for a solution at some point in the future.
+
+Our ideal solution will allow you to import/export without requiring you to 'hack' the core ZOO (or Joomla) code.
+
 ## Where do we start?
 ### What can we actually do with the ZOO import / export system
 
@@ -7,7 +13,7 @@ ZOO is a wonderful CCK for Joomla; however, the import/export functionality is d
 
 There are some limitations, and even some ways to get around those limitations that will give you some functionality beyond what the core ZOO system provides.
 
-PLEASE NOTE - the steps provided in this document require you to have at least some basic php code editing ability (and a good code editor). In addition the steps that are indicated here require you to change core ZOO files. That means that you should backup the files that you are changing before you start to a place where you can easily recover them when things go wrong. And you will also need to keep a copy of the final changed version so that when you upgrade ZOO in the future you can re-apply the changes (they will probably be wiped out with any future ZOO upgrade).
+PLEASE NOTE - the steps provided in this document require you to have at least some basic php code editing ability (and a good code editor). In addition the steps that are indicated here require you to change core ZOO files. That means that you should backup the files that you are changing before you start to a place where you can easily recover them when things go wrong. And you will also need to keep a copy of the final changed version so that when you upgrade ZOO in the future you can re-apply the changes (they will be wiped out with any future ZOO upgrade).
 
 And as always, you make changes to the core ZOO files at your own risk. If you make a mistake in this process you could damage or loose part or all of your data. Again, backup early and often - your ENTIRE site.
 
@@ -58,6 +64,3 @@ First - you can **downgrade** your existing ZOOlander pro element to a standard 
 NOTE: The loss indicated here is not just related to element configuration settings that are made available by the pro element but also data that may have been entered into a pro element that add the **Repeatable** functionality where the standard element doesn't offer it (like in the Text/Textarea Pro elements).
 
 Second - you can just run the export process and you will only get the standard elements which the ZOO exporter is designed to handle.
-
-
-

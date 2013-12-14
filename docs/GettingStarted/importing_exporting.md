@@ -1,11 +1,5 @@
 # Importing/Exporting
 
-##Isn't there ANY better way to Import / Export
-
-Unfortunately, there isn't presently any better solution for importing/exporting data into/out of ZOO. However, we've heard your requests and experienced this limitation ourselves. We've got it on our wishlist for a solution at some point in the future.
-
-Our ideal solution will allow you to import/export without requiring you to 'hack' the core ZOO (or Joomla) code.
-
 ## Where do we start?
 ### What can we actually do with the ZOO import / export system
 
@@ -64,3 +58,9 @@ First - you can **downgrade** your existing ZOOlander pro element to a standard 
 NOTE: The loss indicated here is not just related to element configuration settings that are made available by the pro element but also data that may have been entered into a pro element that add the **Repeatable** functionality where the standard element doesn't offer it (like in the Text/Textarea Pro elements).
 
 Second - you can just run the export process and you will only get the standard elements which the ZOO exporter is designed to handle.
+
+##Isn't there ANY better way to Import / Export
+
+Unfortunately, there isn't presently any better solution for importing/exporting data into/out of ZOO. However, we've heard your requests and experienced this limitation ourselves. We've got it on our wishlist for a solution at some point in the future.
+
+Our ideal solution will allow you to import/export without requiring you to 'hack' the core ZOO (or Joomla) code.

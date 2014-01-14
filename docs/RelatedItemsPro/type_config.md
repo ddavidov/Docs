@@ -10,14 +10,10 @@
 
 ## Specific Parameters
 
-[image]
-
 - **Editable** - Allows to choose if the element should allow to make relations or only show them. Usually combined with Bi-relation feature.
 - **Authored by User** - Allows to choose if the items should be prefiltered and only show for selection the ones authored by current user.
 
 ## Items Parameters
-
-[image]
 
 - **Apps** - Allows to choose the Apps the items will be prefiltered by. No selection is equal to selecting all. 
 - **Types** - Allows to choose the Types the items will be prefiltered by. No selection is equal to selecting all. 
